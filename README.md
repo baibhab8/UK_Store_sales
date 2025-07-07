@@ -17,7 +17,6 @@ The dataset contains transactional sales data including:
 - `CustomerID`: Unique identifier for each customer
 - `Country`: Country of the customer (primarily United Kingdom)
 
-
 ---
 
 ## 🎯 Objectives
@@ -59,8 +58,6 @@ The dataset contains transactional sales data including:
    - Unique customers by month
    - Repeat vs. new customer ratio
 
-
-
 ---
 
 ## 📊 Sample Visuals
@@ -83,5 +80,4 @@ The dataset contains transactional sales data including:
 
 ---
 
-## 📁 Project Structure
 
